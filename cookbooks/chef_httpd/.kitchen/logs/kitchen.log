@@ -1,0 +1,3 @@
+I, [2019-01-14T23:12:13.057743 #15888]  INFO -- Kitchen: -----> Starting Kitchen (v1.24.0)
+I, [2019-01-14T23:12:29.216946 #15888]  INFO -- Kitchen: -----> Creating <default-centos-7>...
+I, [2019-01-14T23:28:36.047908 #15888]  INFO -- Kitchen: -----> Kitchen is finished. (16m22.99s)
