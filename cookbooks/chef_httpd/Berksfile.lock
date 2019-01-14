@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef_httpd
+    path: .
+    metadata: true
+
+GRAPH
+  chef_httpd (0.6.1)
